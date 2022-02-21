@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "QnfhpE+JYVhq0kG5z2ulTW1PvCXBdRfDNk3o/x9i/N0=",
+  "Source": "sftpapi",
+  "BasePath": "_content/sftpapi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

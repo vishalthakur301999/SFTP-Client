@@ -1,0 +1,12 @@
+/Users/vishalthakur/Downloads/DotNetCoreFtpSftp/FileSystem.Core/bin/Debug/net6.0/FileSystem.Core.deps.json
+/Users/vishalthakur/Downloads/DotNetCoreFtpSftp/FileSystem.Core/bin/Debug/net6.0/FileSystem.Core.dll
+/Users/vishalthakur/Downloads/DotNetCoreFtpSftp/FileSystem.Core/bin/Debug/net6.0/FileSystem.Core.pdb
+/Users/vishalthakur/Downloads/DotNetCoreFtpSftp/FileSystem.Core/obj/Debug/net6.0/FileSystem.Core.csproj.AssemblyReference.cache
+/Users/vishalthakur/Downloads/DotNetCoreFtpSftp/FileSystem.Core/obj/Debug/net6.0/FileSystem.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vishalthakur/Downloads/DotNetCoreFtpSftp/FileSystem.Core/obj/Debug/net6.0/FileSystem.Core.AssemblyInfoInputs.cache
+/Users/vishalthakur/Downloads/DotNetCoreFtpSftp/FileSystem.Core/obj/Debug/net6.0/FileSystem.Core.AssemblyInfo.cs
+/Users/vishalthakur/Downloads/DotNetCoreFtpSftp/FileSystem.Core/obj/Debug/net6.0/FileSystem.Core.csproj.CoreCompileInputs.cache
+/Users/vishalthakur/Downloads/DotNetCoreFtpSftp/FileSystem.Core/obj/Debug/net6.0/FileSystem.Core.dll
+/Users/vishalthakur/Downloads/DotNetCoreFtpSftp/FileSystem.Core/obj/Debug/net6.0/refint/FileSystem.Core.dll
+/Users/vishalthakur/Downloads/DotNetCoreFtpSftp/FileSystem.Core/obj/Debug/net6.0/FileSystem.Core.pdb
+/Users/vishalthakur/Downloads/DotNetCoreFtpSftp/FileSystem.Core/obj/Debug/net6.0/ref/FileSystem.Core.dll

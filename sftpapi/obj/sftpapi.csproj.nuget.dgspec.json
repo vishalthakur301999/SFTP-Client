@@ -1,0 +1,151 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/vishalthakur/Downloads/DotNetCoreFtpSftp/sftpapi/sftpapi.csproj": {}
+  },
+  "projects": {
+    "/Users/vishalthakur/Downloads/DotNetCoreFtpSftp/FileSystem.Core/FileSystem.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/vishalthakur/Downloads/DotNetCoreFtpSftp/FileSystem.Core/FileSystem.Core.csproj",
+        "projectName": "FileSystem.Core",
+        "projectPath": "/Users/vishalthakur/Downloads/DotNetCoreFtpSftp/FileSystem.Core/FileSystem.Core.csproj",
+        "packagesPath": "/Users/vishalthakur/.nuget/packages/",
+        "outputPath": "/Users/vishalthakur/Downloads/DotNetCoreFtpSftp/FileSystem.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/vishalthakur/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentFTP": {
+              "target": "Package",
+              "version": "[37.0.1, )"
+            },
+            "SSH.NET": {
+              "target": "Package",
+              "version": "[2020.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.200/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/vishalthakur/Downloads/DotNetCoreFtpSftp/sftpapi/sftpapi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/vishalthakur/Downloads/DotNetCoreFtpSftp/sftpapi/sftpapi.csproj",
+        "projectName": "sftpapi",
+        "projectPath": "/Users/vishalthakur/Downloads/DotNetCoreFtpSftp/sftpapi/sftpapi.csproj",
+        "packagesPath": "/Users/vishalthakur/.nuget/packages/",
+        "outputPath": "/Users/vishalthakur/Downloads/DotNetCoreFtpSftp/sftpapi/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/vishalthakur/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/vishalthakur/Downloads/DotNetCoreFtpSftp/FileSystem.Core/FileSystem.Core.csproj": {
+                "projectPath": "/Users/vishalthakur/Downloads/DotNetCoreFtpSftp/FileSystem.Core/FileSystem.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentFTP": {
+              "target": "Package",
+              "version": "[37.0.1, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "SSH.NET": {
+              "target": "Package",
+              "version": "[2020.0.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            },
+            "System.Xml.XDocument": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.200/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

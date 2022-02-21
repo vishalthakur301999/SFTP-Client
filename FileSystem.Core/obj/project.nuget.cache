@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Pk5we+4F6GBOvcGsVjaOf3UeXfQMZ+KUCc1EK2H3KZEVtgFFBiOyKQnlypDDg0xmNzXyxTtOCPyfURntS1aF+A==",
+  "success": true,
+  "projectFilePath": "/Users/vishalthakur/Downloads/DotNetCoreFtpSftp/FileSystem.Core/FileSystem.Core.csproj",
+  "expectedPackageFiles": [
+    "/Users/vishalthakur/.nuget/packages/fluentftp/37.0.1/fluentftp.37.0.1.nupkg.sha512",
+    "/Users/vishalthakur/.nuget/packages/ssh.net/2020.0.1/ssh.net.2020.0.1.nupkg.sha512",
+    "/Users/vishalthakur/.nuget/packages/sshnet.security.cryptography/1.3.0/sshnet.security.cryptography.1.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

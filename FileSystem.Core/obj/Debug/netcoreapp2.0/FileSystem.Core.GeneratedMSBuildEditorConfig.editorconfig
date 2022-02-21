@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = FileSystem.Core
+build_property.ProjectDir = /Users/vishalthakur/Downloads/DotNetCoreFtpSftp/FileSystem.Core/

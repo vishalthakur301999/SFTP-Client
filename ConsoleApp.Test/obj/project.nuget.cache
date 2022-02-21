@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "sDhRhAmN8Rshmc3SrS1EZgqBFHjUXGilf1sZxDn+wPFV1+FjSdHJxk2Dq0wHGsU/vhdWc4YppsLag3zTSnYWjg==",
+  "success": true,
+  "projectFilePath": "/Users/vishalthakur/Downloads/DotNetCoreFtpSftp/ConsoleApp.Test/ConsoleApp.Test.csproj",
+  "expectedPackageFiles": [
+    "/Users/vishalthakur/.nuget/packages/fluentftp/37.0.1/fluentftp.37.0.1.nupkg.sha512",
+    "/Users/vishalthakur/.nuget/packages/microsoft.extensions.configuration/6.0.0/microsoft.extensions.configuration.6.0.0.nupkg.sha512",
+    "/Users/vishalthakur/.nuget/packages/microsoft.extensions.configuration.abstractions/6.0.0/microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "/Users/vishalthakur/.nuget/packages/microsoft.extensions.configuration.fileextensions/6.0.0/microsoft.extensions.configuration.fileextensions.6.0.0.nupkg.sha512",
+    "/Users/vishalthakur/.nuget/packages/microsoft.extensions.configuration.json/6.0.0/microsoft.extensions.configuration.json.6.0.0.nupkg.sha512",
+    "/Users/vishalthakur/.nuget/packages/microsoft.extensions.configuration.xml/6.0.0/microsoft.extensions.configuration.xml.6.0.0.nupkg.sha512",
+    "/Users/vishalthakur/.nuget/packages/microsoft.extensions.fileproviders.abstractions/6.0.0/microsoft.extensions.fileproviders.abstractions.6.0.0.nupkg.sha512",
+    "/Users/vishalthakur/.nuget/packages/microsoft.extensions.fileproviders.physical/6.0.0/microsoft.extensions.fileproviders.physical.6.0.0.nupkg.sha512",
+    "/Users/vishalthakur/.nuget/packages/microsoft.extensions.filesystemglobbing/6.0.0/microsoft.extensions.filesystemglobbing.6.0.0.nupkg.sha512",
+    "/Users/vishalthakur/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "/Users/vishalthakur/.nuget/packages/ssh.net/2020.0.1/ssh.net.2020.0.1.nupkg.sha512",
+    "/Users/vishalthakur/.nuget/packages/sshnet.security.cryptography/1.3.0/sshnet.security.cryptography.1.3.0.nupkg.sha512",
+    "/Users/vishalthakur/.nuget/packages/system.formats.asn1/6.0.0/system.formats.asn1.6.0.0.nupkg.sha512",
+    "/Users/vishalthakur/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/Users/vishalthakur/.nuget/packages/system.security.accesscontrol/6.0.0/system.security.accesscontrol.6.0.0.nupkg.sha512",
+    "/Users/vishalthakur/.nuget/packages/system.security.cryptography.pkcs/6.0.0/system.security.cryptography.pkcs.6.0.0.nupkg.sha512",
+    "/Users/vishalthakur/.nuget/packages/system.security.cryptography.xml/6.0.0/system.security.cryptography.xml.6.0.0.nupkg.sha512",
+    "/Users/vishalthakur/.nuget/packages/system.text.encodings.web/6.0.0/system.text.encodings.web.6.0.0.nupkg.sha512",
+    "/Users/vishalthakur/.nuget/packages/system.text.json/6.0.0/system.text.json.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
